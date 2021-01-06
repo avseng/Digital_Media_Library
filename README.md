@@ -23,8 +23,11 @@ Google Chromecast, RFID and raspberry pi based digital media library
 10. install below nodes
 
 	a. node-red-contrib-castv2
+	
 	b. node-red-contrib-rc522
+	
 	c. node-red-dashboard
+	
 	d. Simplecast
 	
 11. import the JSON and deploy
